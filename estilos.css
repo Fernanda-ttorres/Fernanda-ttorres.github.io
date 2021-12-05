@@ -1,0 +1,55 @@
+.flex-container_header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(233, 225, 225);
+    padding: 10px;
+    max-inline-size: 100%;  
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex-contairner-nav{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+.flex-container-perfil{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.menu{ color: white; margin-left: 90px;}
+.menu a{color: white;}
+
+.busca{margin-left: 350px;}
+
+.perfil{ max-width: 400px; padding: 15px; }
+.social {max-width: 120px;}
+
+
+
+.dropdown{ margin-left: 925px; margin-top: -55px;  }
+
+.projeto{ max-width: 280px; padding-bottom: 10px; padding-top: 5px; }
+.titulo1 h2{padding-top: 15px; padding-bottom: 15px; }
+.projetos button{ max-inline-size: 180px; margin-left: 940px; background-color: black ; margin-bottom: 20px;}
+  
+.exp{ max-width: 200px; padding-top: 15px; padding-bottom: 20px;}
+.experiencia1 h2{padding-top: 15px; padding-bottom: 15px; }
+.experiencia3 button{ max-inline-size: 180px; margin-left: 940px; background-color: black ; margin-bottom: 20px;}
+
+.cargos {padding-top: 15px; }
+
+.repositorio{ background-color: rgb(206, 203, 203); }
+.repositorio h2{padding-top: 15px; padding-bottom: 15px; }
+.repositorio button{ max-inline-size: 180px; margin-left: 940px; background-color: black ; margin-bottom: 20px;}
+
+.recomendaçoes button{ max-inline-size: 180px; margin-left: 940px; background-color: black ; margin-bottom: 20px;}
+.recomendaçoes h2{padding-top: 15px; padding-bottom: 15px; }
+
+
+.footer{background-color: black;color: white; padding: 10px; max-inline-size: 100%;}
+.footer p{margin-left: 110px;}
